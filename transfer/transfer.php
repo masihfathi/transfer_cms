@@ -1,4 +1,5 @@
 <?php
+//auther masih fathi , masihfathi@gmail.com
 $pass = 'pass';
 $firstdb = new mysqli('localhost','root',$pass,'maryam');
 $seconddb = new mysqli('localhost','root',$pass,'joomla');
