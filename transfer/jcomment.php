@@ -1,4 +1,5 @@
 <?php
+// other cms to joomla comment 
 $pass = 'pass';
 $firstdb = new mysqli('localhost','root',$pass,'maryam');
 $seconddb = new mysqli('localhost','root',$pass,'joomla');
